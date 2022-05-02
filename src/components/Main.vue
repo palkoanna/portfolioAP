@@ -20,7 +20,7 @@
           <ul>
             <a
               class="hero__link"
-              href="https://drive.google.com/drive/folders/1yKsfm_PwMUhyE8IT18RiMWROuAL5P6V7"
+              href="https://drive.google.com/file/d/1RiVQPGVi8CJMLoyD3R3pi6ar2ltOcM64/view"
               target="__blank"
               title="Anna Palkovits Resume"
               >Resume</a
