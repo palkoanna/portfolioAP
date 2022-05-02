@@ -29,7 +29,7 @@
           <ul>
             <a
               class="hero__link"
-              href="https://github.com/settings/profile"
+              href="https://github.com/palkoanna"
               target="__blank"
               title="Anna Palkovits GitHub"
               >Github</a>
